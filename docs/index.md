@@ -3,19 +3,16 @@
 layout: home
 
 hero:
-  name: "Yuque-VitePress"
-  text: "文档站点解决方案"
-  tagline: 语雀 + Elog + VitePress + GitHub Actions + Vercel 持续集成
+  name: "欢迎来到我的星球🫥"
+  text: "前端小白的"
+  tagline: 知识分类
   actions:
     - theme: brand
-      text: 快速开始
-      link: /docs/入门指引/快速开始
-    - theme: brand
-      text: 短路由示例
-      link: /docs-shorturl/ssuhngw0yb3dgkkg
-    - theme: alt
-      text: GitHub
-      link: https://github.com/elog-x/yuque-vitepress
+      text: 前端
+      link: /docs/VUE/打包配置/vue打包配置动态参数
+    # - theme: alt
+    #   text: 其他
+    #   link: /api-examples
 
 features:
   - icon: 📝
