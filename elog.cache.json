@@ -25,6 +25,28 @@
       "realName": "vue打包配置动态参数",
       "relativePath": "/VUE/打包配置/vue打包配置动态参数.md",
       "docPath": "docs/docs/VUE/打包配置"
+    },
+    {
+      "id": 149482772,
+      "doc_id": "ihohurmkq784ooy5",
+      "updated": 1701941285000,
+      "properties": {
+        "title": "GIT常见命令",
+        "urlname": "ihohurmkq784ooy5",
+        "date": "2023-12-07 16:59:29",
+        "updated": "2023-12-07 17:28:05",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701939784911-8e1f82cc-b70b-4687-a18c-84481a028770.png",
+        "description": "git使用过程中会遇到的一些常用的命令：为本地环境配置公钥ssh设置自己的用户名和邮箱：$ git config --global user.name \"your_name\" $ git config --global user.email \"your_email@example.com\"生成..."
+      },
+      "catalog": [
+        {
+          "title": "GIT",
+          "doc_id": "ihohurmkq784ooy5"
+        }
+      ],
+      "realName": "GIT常见命令",
+      "relativePath": "/GIT/GIT常见命令.md",
+      "docPath": "docs/docs/GIT"
     }
   ],
   "catalog": [
@@ -34,7 +56,7 @@
       "uuid": "yaOAYbn9-EgLHlwt",
       "url": "",
       "prev_uuid": "",
-      "sibling_uuid": "",
+      "sibling_uuid": "0z75CNxHvouDAvVi",
       "child_uuid": "K4HEvL7BTMW_9cAu",
       "parent_uuid": "",
       "doc_id": "",
@@ -70,6 +92,36 @@
       "doc_id": 149417887,
       "level": 2,
       "id": 149417887,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "GIT",
+      "uuid": "0z75CNxHvouDAvVi",
+      "url": "",
+      "prev_uuid": "yaOAYbn9-EgLHlwt",
+      "sibling_uuid": "",
+      "child_uuid": "86OD6MsyHcDfvhdd",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "GIT常见命令",
+      "uuid": "86OD6MsyHcDfvhdd",
+      "url": "ihohurmkq784ooy5",
+      "prev_uuid": "0z75CNxHvouDAvVi",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "0z75CNxHvouDAvVi",
+      "doc_id": 149482772,
+      "level": 1,
+      "id": 149482772,
       "open_window": 1,
       "visible": 1
     }
