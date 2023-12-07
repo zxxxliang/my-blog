@@ -1,0 +1,77 @@
+{
+  "docs": [
+    {
+      "id": 149417887,
+      "doc_id": "ghwnduvdso84re8b",
+      "updated": 1701916921000,
+      "properties": {
+        "title": "vue打包配置动态参数",
+        "urlname": "ghwnduvdso84re8b",
+        "date": "2023-12-07 10:19:56",
+        "updated": "2023-12-07 10:42:01",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701916291240-98ef8bee-6a94-4692-af91-71c47f570149.png",
+        "description": "新建config.js在项目public目录新建config.js文件在config.js文件新建一个对象，放在window上window.CONFIG = {   isDebug: false,   intervalTime: 5 * 60 * 1000,   baseURL: 'https..."
+      },
+      "catalog": [
+        {
+          "title": "VUE",
+          "doc_id": "ghwnduvdso84re8b"
+        },
+        {
+          "title": "打包配置",
+          "doc_id": "ghwnduvdso84re8b"
+        }
+      ],
+      "realName": "vue打包配置动态参数",
+      "relativePath": "/VUE/打包配置/vue打包配置动态参数.md",
+      "docPath": "docs/docs/VUE/打包配置"
+    }
+  ],
+  "catalog": [
+    {
+      "type": "TITLE",
+      "title": "VUE",
+      "uuid": "yaOAYbn9-EgLHlwt",
+      "url": "",
+      "prev_uuid": "",
+      "sibling_uuid": "",
+      "child_uuid": "K4HEvL7BTMW_9cAu",
+      "parent_uuid": "",
+      "doc_id": "",
+      "level": 0,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "TITLE",
+      "title": "打包配置",
+      "uuid": "K4HEvL7BTMW_9cAu",
+      "url": "",
+      "prev_uuid": "yaOAYbn9-EgLHlwt",
+      "sibling_uuid": "",
+      "child_uuid": "zRWfrcSYZ6nOa7Dl",
+      "parent_uuid": "yaOAYbn9-EgLHlwt",
+      "doc_id": "",
+      "level": 1,
+      "id": "",
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "vue打包配置动态参数",
+      "uuid": "zRWfrcSYZ6nOa7Dl",
+      "url": "ghwnduvdso84re8b",
+      "prev_uuid": "K4HEvL7BTMW_9cAu",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "K4HEvL7BTMW_9cAu",
+      "doc_id": 149417887,
+      "level": 2,
+      "id": 149417887,
+      "open_window": 1,
+      "visible": 1
+    }
+  ]
+}
