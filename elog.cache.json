@@ -148,6 +148,22 @@
       "realName": "不同宿主下关闭webview页面",
       "relativePath": "/FE/公共/不同宿主下关闭webview页面.md",
       "docPath": "docs/docs/FE/公共"
+    },
+    {
+      "id": 157332926,
+      "doc_id": "xbg2axz8ovnywqtt",
+      "updated": 1706342640000,
+      "properties": {
+        "title": "文档部署步骤",
+        "urlname": "xbg2axz8ovnywqtt",
+        "date": "2024-01-27 16:00:04",
+        "updated": "2024-01-27 16:04:00",
+        "description": "本地node版本需要>18yarn elog:sync-localyarn docs:build找到docs/.vitepress/dist文件夹推到git即可"
+      },
+      "catalog": [],
+      "realName": "文档部署步骤",
+      "relativePath": "/文档部署步骤.md",
+      "docPath": "docs/docs"
     }
   ],
   "catalog": [
@@ -277,7 +293,7 @@
       "uuid": "0z75CNxHvouDAvVi",
       "url": "",
       "prev_uuid": "yaOAYbn9-EgLHlwt",
-      "sibling_uuid": "",
+      "sibling_uuid": "HAS-R6CQqqhushoc",
       "child_uuid": "86OD6MsyHcDfvhdd",
       "parent_uuid": "",
       "doc_id": "",
@@ -298,6 +314,21 @@
       "doc_id": 149482772,
       "level": 1,
       "id": 149482772,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "文档部署步骤",
+      "uuid": "HAS-R6CQqqhushoc",
+      "url": "xbg2axz8ovnywqtt",
+      "prev_uuid": "0z75CNxHvouDAvVi",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "",
+      "doc_id": 157332926,
+      "level": 0,
+      "id": 157332926,
       "open_window": 1,
       "visible": 1
     }
