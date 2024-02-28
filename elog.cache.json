@@ -1,52 +1,46 @@
 {
   "docs": [
     {
-      "id": 149417887,
-      "doc_id": "ghwnduvdso84re8b",
-      "updated": 1701916921000,
+      "id": 157332926,
+      "doc_id": "xbg2axz8ovnywqtt",
+      "updated": 1706342640000,
       "properties": {
-        "title": "vue打包配置动态参数",
-        "urlname": "ghwnduvdso84re8b",
-        "date": "2023-12-07 10:19:56",
-        "updated": "2023-12-07 10:42:01",
-        "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701916291240-98ef8bee-6a94-4692-af91-71c47f570149.png",
-        "description": "新建config.js在项目public目录新建config.js文件在config.js文件新建一个对象，放在window上window.CONFIG = {   isDebug: false,   intervalTime: 5 * 60 * 1000,   baseURL: 'https..."
+        "title": "文档部署步骤",
+        "urlname": "xbg2axz8ovnywqtt",
+        "date": "2024-01-27 16:00:04",
+        "updated": "2024-01-27 16:04:00",
+        "description": "本地node版本需要>18yarn elog:sync-localyarn docs:build找到docs/.vitepress/dist文件夹推到git即可"
       },
-      "catalog": [
-        {
-          "title": "VUE",
-          "doc_id": "ghwnduvdso84re8b"
-        },
-        {
-          "title": "打包配置",
-          "doc_id": "ghwnduvdso84re8b"
-        }
-      ],
-      "realName": "vue打包配置动态参数",
-      "relativePath": "/VUE/打包配置/vue打包配置动态参数.md",
-      "docPath": "docs/docs/VUE/打包配置"
+      "catalog": [],
+      "realName": "文档部署步骤",
+      "relativePath": "/文档部署步骤.md",
+      "docPath": "docs/docs"
     },
     {
-      "id": 149482772,
-      "doc_id": "ihohurmkq784ooy5",
-      "updated": 1701941497000,
+      "id": 152170737,
+      "doc_id": "snm90488o53h1sd3",
+      "updated": 1704333854000,
       "properties": {
-        "title": "GIT常见命令",
-        "urlname": "ihohurmkq784ooy5",
-        "date": "2023-12-07 16:59:29",
-        "updated": "2023-12-07 17:31:37",
-        "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701939784911-8e1f82cc-b70b-4687-a18c-84481a028770.png",
-        "description": "git使用过程中会遇到的一些常用的命令：为本地环境配置公钥ssh设置自己的用户名和邮箱：$ git config --global user.name \"your_name\" $ git config --global user.email \"your_email@example.com\"生成..."
+        "title": "node-sass GoodBye！",
+        "urlname": "snm90488o53h1sd3",
+        "date": "2024-01-04 09:42:46",
+        "updated": "2024-01-04 10:04:14",
+        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40736062/1704332708882-f7a5ff05-0e16-4b8c-a86c-3931cda4c746.png",
+        "description": "由于node-sass与node版本绑定过于恶心，所以，需要将项目中的node-sass改成sassnode-sass报错🤮error /Users/zhaoxiaoliang/newcapec/ecard/staff-ecard/node_modules/node-sass: Comman..."
       },
       "catalog": [
         {
-          "title": "GIT",
-          "doc_id": "ihohurmkq784ooy5"
+          "title": "FE",
+          "doc_id": "snm90488o53h1sd3"
+        },
+        {
+          "title": "vue相关",
+          "doc_id": "snm90488o53h1sd3"
         }
       ],
-      "realName": "GIT常见命令",
-      "relativePath": "/GIT/GIT常见命令.md",
-      "docPath": "docs/docs/GIT"
+      "realName": "node-sass GoodBye！",
+      "relativePath": "/FE/vue相关/node-sass GoodBye！.md",
+      "docPath": "docs/docs/FE/vue相关"
     },
     {
       "id": 149495070,
@@ -99,30 +93,26 @@
       "docPath": "docs/docs/FE/公共"
     },
     {
-      "id": 152170737,
-      "doc_id": "snm90488o53h1sd3",
-      "updated": 1704333854000,
+      "id": 149482772,
+      "doc_id": "ihohurmkq784ooy5",
+      "updated": 1701941497000,
       "properties": {
-        "title": "node-sass GoodBye！",
-        "urlname": "snm90488o53h1sd3",
-        "date": "2024-01-04 09:42:46",
-        "updated": "2024-01-04 10:04:14",
-        "cover": "https://cdn.nlark.com/yuque/0/2024/png/40736062/1704332708882-f7a5ff05-0e16-4b8c-a86c-3931cda4c746.png",
-        "description": "由于node-sass与node版本绑定过于恶心，所以，需要将项目中的node-sass改成sassnode-sass报错🤮error /Users/zhaoxiaoliang/newcapec/ecard/staff-ecard/node_modules/node-sass: Comman..."
+        "title": "GIT常见命令",
+        "urlname": "ihohurmkq784ooy5",
+        "date": "2023-12-07 16:59:29",
+        "updated": "2023-12-07 17:31:37",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701939784911-8e1f82cc-b70b-4687-a18c-84481a028770.png",
+        "description": "git使用过程中会遇到的一些常用的命令：为本地环境配置公钥ssh设置自己的用户名和邮箱：$ git config --global user.name \"your_name\" $ git config --global user.email \"your_email@example.com\"生成..."
       },
       "catalog": [
         {
-          "title": "FE",
-          "doc_id": "snm90488o53h1sd3"
-        },
-        {
-          "title": "vue相关",
-          "doc_id": "snm90488o53h1sd3"
+          "title": "GIT",
+          "doc_id": "ihohurmkq784ooy5"
         }
       ],
-      "realName": "node-sass GoodBye！",
-      "relativePath": "/FE/vue相关/node-sass GoodBye！.md",
-      "docPath": "docs/docs/FE/vue相关"
+      "realName": "GIT常见命令",
+      "relativePath": "/GIT/GIT常见命令.md",
+      "docPath": "docs/docs/GIT"
     },
     {
       "id": 149495261,
@@ -150,20 +140,30 @@
       "docPath": "docs/docs/FE/公共"
     },
     {
-      "id": 157332926,
-      "doc_id": "xbg2axz8ovnywqtt",
-      "updated": 1706342640000,
+      "id": 149417887,
+      "doc_id": "ghwnduvdso84re8b",
+      "updated": 1701916921000,
       "properties": {
-        "title": "文档部署步骤",
-        "urlname": "xbg2axz8ovnywqtt",
-        "date": "2024-01-27 16:00:04",
-        "updated": "2024-01-27 16:04:00",
-        "description": "本地node版本需要>18yarn elog:sync-localyarn docs:build找到docs/.vitepress/dist文件夹推到git即可"
+        "title": "vue打包配置动态参数",
+        "urlname": "ghwnduvdso84re8b",
+        "date": "2023-12-07 10:19:56",
+        "updated": "2023-12-07 10:42:01",
+        "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701916291240-98ef8bee-6a94-4692-af91-71c47f570149.png",
+        "description": "新建config.js在项目public目录新建config.js文件在config.js文件新建一个对象，放在window上window.CONFIG = {   isDebug: false,   intervalTime: 5 * 60 * 1000,   baseURL: 'https..."
       },
-      "catalog": [],
-      "realName": "文档部署步骤",
-      "relativePath": "/文档部署步骤.md",
-      "docPath": "docs/docs"
+      "catalog": [
+        {
+          "title": "FE",
+          "doc_id": "ghwnduvdso84re8b"
+        },
+        {
+          "title": "vue相关",
+          "doc_id": "ghwnduvdso84re8b"
+        }
+      ],
+      "realName": "vue打包配置动态参数",
+      "relativePath": "/FE/vue相关/vue打包配置动态参数.md",
+      "docPath": "docs/docs/FE/vue相关"
     }
   ],
   "catalog": [

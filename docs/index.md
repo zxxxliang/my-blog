@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 前端
-      link: /docs/VUE/打包配置/vue打包配置动态参数
+      link: /docs/FE/vue相关/vue打包配置动态参数
     # - theme: alt
     #   text: 其他
     #   link: /api-examples
