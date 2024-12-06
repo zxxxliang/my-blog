@@ -161,13 +161,13 @@
     "@docsearch/css" "3.5.2"
     algoliasearch "^4.19.1"
 
-"@elog/cli@^0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/cli/-/cli-0.13.0.tgz#37518c7b8bb870736902533c2bf7c8fe66d27ef8"
-  integrity sha512-9nW8sPU60aKZdxU4E05cFKoJdYnLkQGFLUKxz2R4qmFqhIqjm8BQvRSjbTIv3zFTxF/S/KPF6wdaDa+r0lYJNg==
+"@elog/cli@^0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/cli/-/cli-0.13.2.tgz#26b314b9f1e003e1d13f5840287082c4720fee0d"
+  integrity sha512-34xG8P8GDJpv8SJFHNbVyfZAv9ykwWzmTM7IMOn252nZy/hppk1tlz8I0ym9E2WWoNNMLBOzrH7tORY00liOeg==
   dependencies:
-    "@elog/core" "0.13.0"
-    "@elog/shared" "0.13.0"
+    "@elog/core" "0.13.2"
+    "@elog/shared" "0.13.2"
     commander "^9.4.1"
     dotenv "^16.0.3"
     fs-extra "^11.1.1"
@@ -175,128 +175,128 @@
     latest-version "5.1.0"
     semver "^7.3.8"
 
-"@elog/core@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/core/-/core-0.13.0.tgz#1fe9c2e2af341fe4ddc6561c3cff7d4c6d427814"
-  integrity sha512-srviwjrcA7vciguohwrEGvm6bLLeA46qr+XLSxyHjgbSBF//znaDw6JNe55PfunfqLKhZqIjO9y+pX01jeJDGQ==
+"@elog/core@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/core/-/core-0.13.2.tgz#2aba76955d46ff15e33f9d47d059427bd18d8321"
+  integrity sha512-ywsNqnW7JovarPRT/2y7hzeN8KXyO0O8s6SZTwjZT8RyHy6XTqIFnQhRDNbdB3SwzCnSmW5fIT0//+4xeqnc3A==
   dependencies:
-    "@elog/deploy" "0.13.0"
-    "@elog/plugin-image" "0.13.0"
-    "@elog/sdk-feishu" "0.13.0"
-    "@elog/sdk-flowus" "0.13.0"
-    "@elog/sdk-notion" "0.13.0"
-    "@elog/sdk-yuque" "0.13.0"
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/deploy" "0.13.2"
+    "@elog/plugin-image" "0.13.2"
+    "@elog/sdk-feishu" "0.13.2"
+    "@elog/sdk-flowus" "0.13.2"
+    "@elog/sdk-notion" "0.13.2"
+    "@elog/sdk-yuque" "0.13.2"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
 
-"@elog/deploy@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/deploy/-/deploy-0.13.0.tgz#76feaa9714643827bc0eaa11f311a0a9413efe4c"
-  integrity sha512-z5gZbHX9VOiWEtIHG4ffin11QSHiJTBUa7zLeb11Mx33mEvy59dLAONhL7DKTnSaaFzs6Mk3czfT/tqr0TslkQ==
+"@elog/deploy@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/deploy/-/deploy-0.13.2.tgz#f60a5a0ec4af9435f300d701dc1b5709ef6fb894"
+  integrity sha512-46od4dDgHTW//IEjy0BMpO3w8qExIjVZanwhIX6V2ByW1XlnF76i94dT7dpshS0hZY60/SFTCynDw9aBlrqBmQ==
   dependencies:
-    "@elog/plugin-adapter" "0.13.0"
-    "@elog/sdk-confluence" "0.13.0"
-    "@elog/sdk-halo" "0.13.0"
-    "@elog/sdk-wordpress" "0.13.0"
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/plugin-adapter" "0.13.2"
+    "@elog/sdk-confluence" "0.13.2"
+    "@elog/sdk-halo" "0.13.2"
+    "@elog/sdk-wordpress" "0.13.2"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     filenamify "^4.3.0"
     mkdirp "^1.0.4"
     transliteration "^2.3.5"
 
-"@elog/plugin-adapter@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/plugin-adapter/-/plugin-adapter-0.13.0.tgz#5c40f275ad5d8c06d34d1f306c0e40c402f8fefd"
-  integrity sha512-J+nEhl7drw6t2LYQMlmpBoyka20ZV7BPisNVzR853+Hp7Ndt40z3jhTC41Nb8hVVTcNUUOLGy0UsDwaVb6W8vA==
+"@elog/plugin-adapter@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/plugin-adapter/-/plugin-adapter-0.13.2.tgz#810b62e404a3d880db36681328925ebd86eed6d4"
+  integrity sha512-Fe0dS8EJJm7CkAcq15ge3WHoBxJtZWtRJV97p41aaYCXLSa4kSRtNpyxJBWs0T/J9Xl1RD2qtDQ5kpOHQNCQxA==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     gray-matter "^4.0.3"
     highlight.js "^11.8.0"
     markdown-it "^13.0.2"
     marked "^5.1.1"
 
-"@elog/plugin-image@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/plugin-image/-/plugin-image-0.13.0.tgz#1aca17be251b4acb17823ac884d62261bead63e6"
-  integrity sha512-701zo0JBVntA+7LhF9/ovAQwoAbABxgu345kCo30AIKCSNuufHae6e7ZqtE85LbzWEiiQbPBLGL64VimlUQo9A==
+"@elog/plugin-image@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/plugin-image/-/plugin-image-0.13.2.tgz#6b9e20fa13d45472664c0cd7885c8b6a77f5498c"
+  integrity sha512-EbBZijTxHxQ/gSLftpJSvWVRIw3dMSDvh1YhAD6VzBpqB87TmwuSfbYLVwtm3bWF4w6103qoVXcZxcYNJKJJew==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     ali-oss "^6.17.1"
     cos-nodejs-sdk-v5 "^2.11.16"
     mkdirp "^1.0.4"
     qiniu "^7.8.0"
     upyun "^3.4.6"
 
-"@elog/sdk-confluence@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-confluence/-/sdk-confluence-0.13.0.tgz#c43b3b7c660c5fac596597784cd71194e66bcac2"
-  integrity sha512-QJobDVMJT9e/h0sthLWvsb+rQYFRiLO4uSXhG4VcZs4OLgBEn4ZhsHWIl7X70NDrZLkmZX8WfL3cPMAq6DnuLw==
+"@elog/sdk-confluence@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-confluence/-/sdk-confluence-0.13.2.tgz#ea5981c470ff09918b041737132d25e0d49efec3"
+  integrity sha512-WUrSIZqDaRUlZlcOCaB4uQiGqjsmWQ1XQOvt0zC70+/ZTFGEuoym8mTf7IveJVRuLo/sdzfKfoxgtU8DsvYQKw==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
 
-"@elog/sdk-feishu@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-feishu/-/sdk-feishu-0.13.0.tgz#84411576f3c25231578397c2d0536d9d0a54ca7f"
-  integrity sha512-OziHEgofr5k0CeGWVupqKfXMf6siZzeRc+DpGLz7l4ZWSaf/2TllBpS41973RV8eYHBwgv4TGsrC/zL6Io6g3w==
+"@elog/sdk-feishu@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-feishu/-/sdk-feishu-0.13.2.tgz#f4617f05dedbed5404f732f99f76600262deee95"
+  integrity sha512-B0gU2vm3JFLBUNHjqJ3i/h1GAbRAA4hM+lcvcFGAg0p+bdRcBRC9QZwyzwNQ40n5p7sN6jLdlmBZLgNI8uY89Q==
   dependencies:
-    "@elog/shared" "0.13.0"
+    "@elog/shared" "0.13.2"
     "@feishux/api" "^0.3.1"
     "@feishux/doc-to-md" "^0.3.1"
     "@feishux/shared" "^0.3.1"
     front-matter "^4.0.2"
     tiny-async-pool "^1.3.0"
 
-"@elog/sdk-flowus@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-flowus/-/sdk-flowus-0.13.0.tgz#25fe14e2177987ae8ebceb6660c810dabd1454de"
-  integrity sha512-KlySRuKx8y6aY71YH6VctxkXbQ5Kkb48OUF+o9GtsK/HU5gx7bSGWLEvLpkYpjRAMyCJyMcMcBBoop6MYqzWpA==
+"@elog/sdk-flowus@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-flowus/-/sdk-flowus-0.13.2.tgz#fa7bab03114b12065441ff719697350a197c71c7"
+  integrity sha512-L7ZZQJzuXowropAxoiMRmfcKyStGi75Cn938QxLwCA9wP1BWPaRi694n/2W+bQ3RSamQHRBV964FFiVwfE4gYw==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@flowusx/flowus-client" "^0.0.5-beta.3"
-    "@flowusx/flowus-to-md" "^0.0.5-beta.3"
+    "@elog/shared" "0.13.2"
+    "@flowusx/flowus-client" "^0.0.5-beta.4"
+    "@flowusx/flowus-to-md" "^0.0.5-beta.4"
     tiny-async-pool "^1.3.0"
 
-"@elog/sdk-halo@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-halo/-/sdk-halo-0.13.0.tgz#35fd67eac08a3c52d38df11be465843dfea562ef"
-  integrity sha512-qHGfnf4cHvkrLcY8DtP2yNmAz6nD3V4LgYAblq5Mf/pJZup+MLBp0GITq4Cnne23RbcGam3CQ0h520FUbRIG3g==
+"@elog/sdk-halo@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-halo/-/sdk-halo-0.13.2.tgz#bd26a58c47016d1e13dfd008d79bc4c710bc95d4"
+  integrity sha512-MPp8naMnfDFvW4B3dz6t6qcVEidfbe+RYZQRrMf9w3xlZAKroqVkQRhVE8ZCKta6//7ZbT6ICBqq4W4AdlPqpw==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     "@halo-dev/api-client" "2.10.0"
     formstream "^1.3.1"
 
-"@elog/sdk-notion@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-notion/-/sdk-notion-0.13.0.tgz#41bceef4a346d24defc57e324e3eb864d9efc43b"
-  integrity sha512-3cHoPARCzifjn5zKAX5wO08b8lzSLcuZOvGU16Se3LnUmZ81Txb+yQu6bd7hhJQcGlgSiOpIT60ujhQIhFxikw==
+"@elog/sdk-notion@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-notion/-/sdk-notion-0.13.2.tgz#bb72d47191ffbf919cf6402d442ee030d74440ad"
+  integrity sha512-8BlCOtdRCNmQY2GAlKQNSbaTjuNFfSuGicgLOt5o/vSJlaLYR0wOU1Plg1BgCaoZ1eORdC/QA2Xe5KRn7Hrgkg==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     "@notionhq/client" "^2.2.2"
     notion-to-md "~3.1.1"
     tiny-async-pool "^1.3.0"
 
-"@elog/sdk-wordpress@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-wordpress/-/sdk-wordpress-0.13.0.tgz#6ebfc5ac338ee0135b190caf8dc1af5ce9e9ff6e"
-  integrity sha512-rTuWHwX0WkDpOiKheEqUQjK4UgxFJPFUAkWKR/6H1BirTWhoht6MUjIrzNSq1P5vHzfinUqviLQnC98Hg9PbDw==
+"@elog/sdk-wordpress@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-wordpress/-/sdk-wordpress-0.13.2.tgz#ff7acbb0b627207523b5bcac08b4bd333ea6867c"
+  integrity sha512-ICptnzdO7qhVPAl7puU1gHcyAHrltQwwz+yXqEiEnnr0xiCVsAK6fVu76Rpr0hiR+j+gn7cAXZ7DTg3YmLpTAw==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     "@types/wpapi" "^1.1.1"
     wpapi "^1.2.2"
 
-"@elog/sdk-yuque@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/sdk-yuque/-/sdk-yuque-0.13.0.tgz#8668f71b530f15d41099e4e3290e7e5c9afce077"
-  integrity sha512-hFbVDpa7XwKpfVkSUESQXXuSLFbCbmkxWJiMrI1/0/ShO0ZOrd60S15elxi+5uPLMiJ9zqAsCjEVDcJ4Cb0DGw==
+"@elog/sdk-yuque@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/sdk-yuque/-/sdk-yuque-0.13.2.tgz#c9e0178d68575ff49a2034f45414026128a006f6"
+  integrity sha512-PVbd7JiVTFpTpptDSzgR6gbr6so866Xxox88+T7SJ9UvPOXs8+PjqtC4w1yWphvG7WUZit4PwiwwaQjWjm7fOQ==
   dependencies:
-    "@elog/shared" "0.13.0"
-    "@elog/types" "0.13.0"
+    "@elog/shared" "0.13.2"
+    "@elog/types" "0.13.2"
     front-matter "^4.0.2"
     jsdom "^21.1.1"
     jsencrypt-node "^1.0.4"
@@ -306,10 +306,10 @@
     unified "^9.2.2"
     urllib "2.40.0"
 
-"@elog/shared@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/shared/-/shared-0.13.0.tgz#5a88b7de37bfcb4aee07a80711120f10e680b8fa"
-  integrity sha512-7qwiTI2afwja1MkPMeAshzldm9GncZXxNUxWwxBzrbbzn+GEFzuUtUQBYaXvcYrLtxVutHr2hErIxWzUO3Pe1Q==
+"@elog/shared@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/shared/-/shared-0.13.2.tgz#8d1146dbe4cae1acb3ad8a6c8c17f56a821610a9"
+  integrity sha512-OmNMKcT9nuvq7UViaJJSCaYiDM5MnOlTxJNwUqawWCCNmfaQLPiUQYoItsVKis5uO8ShDHMNOk715dsFnk5hBg==
   dependencies:
     chalk "^4.1.2"
     dayjs "^1.11.10"
@@ -319,10 +319,10 @@
     shelljs "^0.8.5"
     urllib "2.40.0"
 
-"@elog/types@0.13.0":
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/@elog/types/-/types-0.13.0.tgz#673fa643bce264b10919e6e1f283d5b68658cf90"
-  integrity sha512-3rLx86JKlrzIiifIrbVXzlTfiLOckWEjyFgYidBfze4paucv0n3yOJV86Tgw07CNtoN7XjOfAOXQdswpNFzj7Q==
+"@elog/types@0.13.2":
+  version "0.13.2"
+  resolved "https://registry.yarnpkg.com/@elog/types/-/types-0.13.2.tgz#3ef22666f56b7077e1309e54e320cc5db780d316"
+  integrity sha512-Vh5z0WIEFFJohSWhjYTOR2ed3mbja3nJ3DRrPdzvCAj3RAFB6XY/Wr6lMn4PIcCMhvKk0aBXOD3+SFnI6JmWGA==
 
 "@esbuild/android-arm64@0.19.8":
   version "0.19.8"
@@ -466,38 +466,38 @@
     tslib "^2.4.1"
     urllib "^3.13.2"
 
-"@flowusx/flowus-client@0.0.5-beta.3", "@flowusx/flowus-client@^0.0.5-beta.3":
-  version "0.0.5-beta.3"
-  resolved "https://registry.yarnpkg.com/@flowusx/flowus-client/-/flowus-client-0.0.5-beta.3.tgz#b455086e707943af67aebcdde06c6dc9fbc70b26"
-  integrity sha512-Yhtg18kq31H0KZdzz5h/bT69rkSYc1M1lJ82Kt1/tfePaUKb0Amb90ap2P02pPVkQ8sHnvWESBV9aVcVjH1byA==
+"@flowusx/flowus-client@0.0.5-beta.4", "@flowusx/flowus-client@^0.0.5-beta.4":
+  version "0.0.5-beta.4"
+  resolved "https://registry.yarnpkg.com/@flowusx/flowus-client/-/flowus-client-0.0.5-beta.4.tgz#add97d9b5fce8dbfdef0df9ceab7f27da3ff12ad"
+  integrity sha512-LF50P4PMFCLXjXjnp8alT0VTfvPyUgT7PcGg05sI8O6IqBX7JorqQw3trxyxvcSKO58eprn01a6NQeN5L2BYwA==
   dependencies:
-    "@flowusx/flowus-shared" "0.0.5-beta.3"
-    "@flowusx/flowus-types" "0.0.5-beta.3"
+    "@flowusx/flowus-shared" "0.0.5-beta.4"
+    "@flowusx/flowus-types" "0.0.5-beta.4"
 
-"@flowusx/flowus-shared@0.0.5-beta.3":
-  version "0.0.5-beta.3"
-  resolved "https://registry.yarnpkg.com/@flowusx/flowus-shared/-/flowus-shared-0.0.5-beta.3.tgz#9cf0116124c36354007966dd3dcc98dd19241ce1"
-  integrity sha512-7g9PjHML+sy3Zhre06ZWs3/ONXLrfw2xAu/OEXndjg8SUanqRmNL8y7ojElQyY+4G+7dxUKKz1A0BuKmu74azA==
+"@flowusx/flowus-shared@0.0.5-beta.4":
+  version "0.0.5-beta.4"
+  resolved "https://registry.yarnpkg.com/@flowusx/flowus-shared/-/flowus-shared-0.0.5-beta.4.tgz#864e8bb18e05f5647644e00fea5191244b207f8f"
+  integrity sha512-VTo3dw04iyPokkOhDGQI3kXhnXXzxZk28P3N4qK3AFNGxkeOi9wNrkwxS8f5arvqDtVn4N1xVXIQXiczqPMIDQ==
   dependencies:
     chalk "^4.1.2"
     lodash "^4.17.21"
     shelljs "^0.8.5"
     urllib "^3.13.2"
 
-"@flowusx/flowus-to-md@^0.0.5-beta.3":
-  version "0.0.5-beta.3"
-  resolved "https://registry.yarnpkg.com/@flowusx/flowus-to-md/-/flowus-to-md-0.0.5-beta.3.tgz#b21504a18f9f5e53bdf1cac55d3c259d0b44b98c"
-  integrity sha512-2090jZ25CDyHocE9tJFnYISY/yH5NvsCBS4jiT8i3vm39dnc2dB0z6rOL7Jax71O3d0VInhq5QIJnr7pK9UWRQ==
+"@flowusx/flowus-to-md@^0.0.5-beta.4":
+  version "0.0.5-beta.4"
+  resolved "https://registry.yarnpkg.com/@flowusx/flowus-to-md/-/flowus-to-md-0.0.5-beta.4.tgz#a5b4ffb48a60be27349684f6bb0734ba435cfe05"
+  integrity sha512-ZxVUGsvPIELFytJTUtAdCE+ISFR8mfwHVpNT9KRr5iNkPC6gHiNsMpXd/MwMXsc6ZR3N5JLyGlUMM3O2BhNDnA==
   dependencies:
-    "@flowusx/flowus-client" "0.0.5-beta.3"
-    "@flowusx/flowus-shared" "0.0.5-beta.3"
-    "@flowusx/flowus-types" "0.0.5-beta.3"
+    "@flowusx/flowus-client" "0.0.5-beta.4"
+    "@flowusx/flowus-shared" "0.0.5-beta.4"
+    "@flowusx/flowus-types" "0.0.5-beta.4"
     markdown-table "^2.0.0"
 
-"@flowusx/flowus-types@0.0.5-beta.3":
-  version "0.0.5-beta.3"
-  resolved "https://registry.yarnpkg.com/@flowusx/flowus-types/-/flowus-types-0.0.5-beta.3.tgz#3e0b98e98b8307a0372068fbfba6e5a9fe04377e"
-  integrity sha512-j47fzCSk/zm2Zuyd/pIan7dxPqmpL9MV6E7b+AsZKcE82taBqlox/3zHx9/z02Y8PZWMaLfze58p+XnKdkE4Uw==
+"@flowusx/flowus-types@0.0.5-beta.4":
+  version "0.0.5-beta.4"
+  resolved "https://registry.yarnpkg.com/@flowusx/flowus-types/-/flowus-types-0.0.5-beta.4.tgz#8e1c7208ae6740da660466bb6e66a9a22583e92a"
+  integrity sha512-aQXSfidzKFRJrF8lVYA7r7QOvucBbiqkjvhx61dVSXMJXH8ePV3zJw5GOKz+woe6N9fRQXJJuXjqU/rIWoKDIA==
 
 "@halo-dev/api-client@2.10.0":
   version "2.10.0"
