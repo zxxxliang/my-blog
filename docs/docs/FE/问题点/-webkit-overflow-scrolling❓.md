@@ -1,7 +1,7 @@
 # 问题背景
 uniapp开发h5，在iOS环境打开，z-index失效问题
 
-![](../../../images/07688f9eaf53d14648155035bc6f5395.png)![](../../../images/4be1cfff537dec173fa59404420cc670.png)
+![](../../../images/a8bcbd773a80175ec18c64740f73c2ab.png)
 
 # 问题原因
 `-webkit-overflow-scrolling: touch;`可能会导致 position: fixed;、z-index 失效（浮层显示异常）
