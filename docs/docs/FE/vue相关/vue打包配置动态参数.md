@@ -1,5 +1,10 @@
 # 新建config.js
-在项目public目录新建config.js文件<br />![image.png](../../../images/be5616fc02dd433b2b3124da9226c851.png)<br />在config.js文件新建一个对象，放在window上
+在项目public目录新建config.js文件
+
+![](../../../images/be5616fc02dd433b2b3124da9226c851.png)
+
+在config.js文件新建一个对象，放在window上
+
 ```javascript
 window.CONFIG = {
   isDebug: false,
@@ -8,8 +13,10 @@ window.CONFIG = {
 }
 
 ```
+
 # 引入config.js
 在项目index.html中引入config.js
+
 ```html
 <!DOCTYPE html>
 <html lang="en" class="dark">
@@ -28,13 +35,16 @@ window.CONFIG = {
 </html>
 
 ```
+
 # 使用变量
 在项目任何地方直接使用window.CONFIG.xxx，就可以使用定义的变量了
+
 ```javascript
 setInterval(() => {
   doFilter()
 }, window.CONFIG.intervalTime)
 ```
+
 ```javascript
 import axios from 'axios'
 
@@ -51,5 +61,7 @@ instance.interceptors.response.use((res) => {
 export default instance
 
 ```
+
 # 动态修改config
 这样新建的config.js，打包后还在dist根目录，直接修改config.js中的值就可以让打包后的项目使用修改后的变量
+
