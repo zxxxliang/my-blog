@@ -32,13 +32,13 @@ export default defineConfig({
     socialLinks: [
       {
         icon: { svg: YuQueSVG },
-        link: "https://www.yuque.com/zxl.zhaoxiaoliang/my-blog",
+        link: "https://www.yuque.com",
       },
       { icon: "github", link: "https://github.com/zxxxliang/my-blog" },
     ],
     footer: {
       message:
-        'Powered by <a href="https://www.yuque.com/zxl.zhaoxiaoliang/my-blog" target="_blank">语雀</a>  & <a href="https://vitepress.dev" target="_blank">VitePress</a> with <a href="https://github.com/zxxxliang/my-blog" target="_blank">Elog</a>',
+        'Powered by <a href="https://www.yuque.com" target="_blank">语雀</a>  & <a href="https://vitepress.dev" target="_blank">VitePress</a> with <a href="https://github.com/zxxxliang/my-blog" target="_blank">Elog</a>',
       copyright: "Copyright © 2023-present",
     },
   },
