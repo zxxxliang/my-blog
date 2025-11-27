@@ -374,6 +374,31 @@
       "realName": "gitignore",
       "relativePath": "/GIT/gitignore.md",
       "docPath": "docs/docs/GIT"
+    },
+    {
+      "id": 246482824,
+      "doc_id": "znv8np96kzwd5ued",
+      "updated": 1764244069000,
+      "properties": {
+        "title": "vue",
+        "urlname": "znv8np96kzwd5ued",
+        "date": "2025-11-27 19:46:45",
+        "updated": "2025-11-27 19:47:49",
+        "description": "😍vue🥰"
+      },
+      "catalog": [
+        {
+          "title": "FE",
+          "doc_id": "znv8np96kzwd5ued"
+        },
+        {
+          "title": "vue相关",
+          "doc_id": "znv8np96kzwd5ued"
+        }
+      ],
+      "realName": "vue",
+      "relativePath": "/FE/vue相关/vue.md",
+      "docPath": "docs/docs/FE/vue相关"
     }
   ],
   "catalog": [
@@ -399,7 +424,7 @@
       "url": "",
       "prev_uuid": "yaOAYbn9-EgLHlwt",
       "sibling_uuid": "5SIt5VY0fM3F3zPP",
-      "child_uuid": "GKcG-DzvYi7Rctd-",
+      "child_uuid": "Sf0I3BPytlC--GBb",
       "parent_uuid": "yaOAYbn9-EgLHlwt",
       "doc_id": "",
       "level": 1,
@@ -409,10 +434,25 @@
     },
     {
       "type": "DOC",
+      "title": "vue",
+      "uuid": "Sf0I3BPytlC--GBb",
+      "url": "znv8np96kzwd5ued",
+      "prev_uuid": "K4HEvL7BTMW_9cAu",
+      "sibling_uuid": "GKcG-DzvYi7Rctd-",
+      "child_uuid": "",
+      "parent_uuid": "K4HEvL7BTMW_9cAu",
+      "doc_id": 246482824,
+      "level": 2,
+      "id": 246482824,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
       "title": "【vite.config.ts】vue3+vite项目打包配置",
       "uuid": "GKcG-DzvYi7Rctd-",
       "url": "nyexiem21nudbgoo",
-      "prev_uuid": "K4HEvL7BTMW_9cAu",
+      "prev_uuid": "Sf0I3BPytlC--GBb",
       "sibling_uuid": "zRWfrcSYZ6nOa7Dl",
       "child_uuid": "",
       "parent_uuid": "K4HEvL7BTMW_9cAu",
