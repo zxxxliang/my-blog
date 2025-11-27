@@ -29,12 +29,12 @@
     {
       "id": 189492560,
       "doc_id": "gpeisasakm2vvt4h",
-      "updated": 1728463198000,
+      "updated": 1744027189000,
       "properties": {
         "title": "农历的秘密",
         "urlname": "gpeisasakm2vvt4h",
         "date": "2024-10-09 15:58:45",
-        "updated": "2024-10-09 16:39:58",
+        "updated": "2025-04-07 19:59:49",
         "description": "农历（又称阴历、夏历）是中国古代以月亮的运行周期（即月相变化）为基础的一种历法。它结合了太阳的运动和月亮的盈亏变化，在农业、文化、宗教等方面有深远的影响一、月份的定义农历的一个月以月亮的运行周期为基础，一个月从新月开始，经过月亮盈亏变化，到下一个新月时结束。每个月的初一是月亮消失的日子，即新月..."
       },
       "catalog": [
@@ -50,12 +50,13 @@
     {
       "id": 178991511,
       "doc_id": "qut14v0b9xwc33f7",
-      "updated": 1741595751000,
+      "updated": 1758704946000,
       "properties": {
         "title": "h5使用微信小程序支付",
         "urlname": "qut14v0b9xwc33f7",
         "date": "2024-07-22 17:09:34",
-        "updated": "2025-03-10 16:35:51"
+        "updated": "2025-09-24 17:09:06",
+        "description": "1. 微信小程序需要做的工作1.1. 配置合法域名确保在微信小程序后台配置了合法的业务域名：进入微信小程序管理后台。选择“开发” -&gt; “开发设置”。在“业务域名”中配置H5页面的域名，例如 https://your-h5-domain.com。1.2. 使用"
       },
       "catalog": [
         {
@@ -74,12 +75,12 @@
     {
       "id": 189497918,
       "doc_id": "trgp1qrsogbpyacm",
-      "updated": 1728462548000,
+      "updated": 1744027183000,
       "properties": {
         "title": "节气的秘密",
         "urlname": "trgp1qrsogbpyacm",
         "date": "2024-10-09 16:26:42",
-        "updated": "2024-10-09 16:29:08",
+        "updated": "2025-04-07 19:59:43",
         "description": "二十四节气过完一轮是 365.2422天，这与地球绕太阳一周的时间，也就是一年中的天数相同。这是因为二十四节气是根据太阳在黄道上的位置划分的，每15°为一个节气。一、节气的计算原理黄经：地球围绕太阳运行时，太阳在黄道（天球上的太阳的运行轨迹）上的位置叫做黄经。黄经每移动15°，就会进入下一个节..."
       },
       "catalog": [
@@ -193,12 +194,12 @@
     {
       "id": 176337317,
       "doc_id": "saf3093lrplxlvwp",
-      "updated": 1719996050000,
+      "updated": 1744027198000,
       "properties": {
         "title": "UnoCSS？👍 OR 👎",
         "urlname": "saf3093lrplxlvwp",
         "date": "2024-07-03 16:32:49",
-        "updated": "2024-07-03 16:40:50",
+        "updated": "2025-04-07 19:59:58",
         "description": "什么是UnoCSSUnoCSS 是一个用于生成高效、极简 CSS 的工具，专注于性能优化和开发效率。它通过解析你的 HTML，动态生成所需的 CSS 样式，只包含实际使用到的部分，从而显著减小 CSS 文件的体积。UnoCSS 的设计理念与 Tailwind CSS 类似，但更加灵活和轻量。U..."
       },
       "catalog": [
@@ -280,12 +281,12 @@
     {
       "id": 149417887,
       "doc_id": "ghwnduvdso84re8b",
-      "updated": 1701916921000,
+      "updated": 1764242982000,
       "properties": {
-        "title": "vue打包配置动态参数",
+        "title": "【不推荐】vue打包配置动态参数",
         "urlname": "ghwnduvdso84re8b",
         "date": "2023-12-07 10:19:56",
-        "updated": "2023-12-07 10:42:01",
+        "updated": "2025-11-27 19:29:42",
         "cover": "https://cdn.nlark.com/yuque/0/2023/png/40736062/1701916291240-98ef8bee-6a94-4692-af91-71c47f570149.png",
         "description": "新建config.js在项目public目录新建config.js文件在config.js文件新建一个对象，放在window上window.CONFIG = {   isDebug: false,   intervalTime: 5 * 60 * 1000,   baseURL: 'https..."
       },
@@ -299,8 +300,8 @@
           "doc_id": "ghwnduvdso84re8b"
         }
       ],
-      "realName": "vue打包配置动态参数",
-      "relativePath": "/FE/vue相关/vue打包配置动态参数.md",
+      "realName": "【不推荐】vue打包配置动态参数",
+      "relativePath": "/FE/vue相关/【不推荐】vue打包配置动态参数.md",
       "docPath": "docs/docs/FE/vue相关"
     },
     {
@@ -327,6 +328,52 @@
       "realName": "不同宿主下关闭webview页面",
       "relativePath": "/FE/公共/不同宿主下关闭webview页面.md",
       "docPath": "docs/docs/FE/公共"
+    },
+    {
+      "id": 246480213,
+      "doc_id": "nyexiem21nudbgoo",
+      "updated": 1764243352000,
+      "properties": {
+        "title": "【vite.config.ts】vue3+vite项目打包配置",
+        "urlname": "nyexiem21nudbgoo",
+        "date": "2025-11-27 19:14:26",
+        "updated": "2025-11-27 19:35:52",
+        "description": "1. 设置部署后文件路径为相对路径{ base: './', }2. 设置视口区域{ css: { postcss: { plugins: [ autoprefixer(), viewport({ appSelector: '#app', // 页面最外层选择器 viewportWidth: ..."
+      },
+      "catalog": [
+        {
+          "title": "FE",
+          "doc_id": "nyexiem21nudbgoo"
+        },
+        {
+          "title": "vue相关",
+          "doc_id": "nyexiem21nudbgoo"
+        }
+      ],
+      "realName": "【vite.config.ts】vue3+vite项目打包配置",
+      "relativePath": "/FE/vue相关/【vite.config.ts】vue3+vite项目打包配置.md",
+      "docPath": "docs/docs/FE/vue相关"
+    },
+    {
+      "id": 229206108,
+      "doc_id": "gxb53ct0d6s9dtk4",
+      "updated": 1754034022000,
+      "properties": {
+        "title": ".gitignore",
+        "urlname": "gxb53ct0d6s9dtk4",
+        "date": "2025-07-23 11:14:40",
+        "updated": "2025-08-01 15:40:22",
+        "description": "要在 .gitignore 中新增忽略内容，你只需打开 .gitignore 文件，在文件末尾添加要忽略的路径或规则即可。示例比如你想忽略如下内容：# 忽略所有 .log 文件 *.log  # 忽略 node_modules 文件夹 node_modules/  # 忽略打包后的 dist ..."
+      },
+      "catalog": [
+        {
+          "title": "GIT",
+          "doc_id": "gxb53ct0d6s9dtk4"
+        }
+      ],
+      "realName": "gitignore",
+      "relativePath": "/GIT/gitignore.md",
+      "docPath": "docs/docs/GIT"
     }
   ],
   "catalog": [
@@ -352,7 +399,7 @@
       "url": "",
       "prev_uuid": "yaOAYbn9-EgLHlwt",
       "sibling_uuid": "5SIt5VY0fM3F3zPP",
-      "child_uuid": "zRWfrcSYZ6nOa7Dl",
+      "child_uuid": "GKcG-DzvYi7Rctd-",
       "parent_uuid": "yaOAYbn9-EgLHlwt",
       "doc_id": "",
       "level": 1,
@@ -362,10 +409,25 @@
     },
     {
       "type": "DOC",
-      "title": "vue打包配置动态参数",
+      "title": "【vite.config.ts】vue3+vite项目打包配置",
+      "uuid": "GKcG-DzvYi7Rctd-",
+      "url": "nyexiem21nudbgoo",
+      "prev_uuid": "K4HEvL7BTMW_9cAu",
+      "sibling_uuid": "zRWfrcSYZ6nOa7Dl",
+      "child_uuid": "",
+      "parent_uuid": "K4HEvL7BTMW_9cAu",
+      "doc_id": 246480213,
+      "level": 2,
+      "id": 246480213,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": "【不推荐】vue打包配置动态参数",
       "uuid": "zRWfrcSYZ6nOa7Dl",
       "url": "ghwnduvdso84re8b",
-      "prev_uuid": "K4HEvL7BTMW_9cAu",
+      "prev_uuid": "GKcG-DzvYi7Rctd-",
       "sibling_uuid": "WlnQsUakxALeY1NG",
       "child_uuid": "",
       "parent_uuid": "K4HEvL7BTMW_9cAu",
@@ -546,12 +608,27 @@
       "uuid": "86OD6MsyHcDfvhdd",
       "url": "ihohurmkq784ooy5",
       "prev_uuid": "0z75CNxHvouDAvVi",
-      "sibling_uuid": "",
+      "sibling_uuid": "Sgf017HKNoyzHped",
       "child_uuid": "",
       "parent_uuid": "0z75CNxHvouDAvVi",
       "doc_id": 149482772,
       "level": 1,
       "id": 149482772,
+      "open_window": 1,
+      "visible": 1
+    },
+    {
+      "type": "DOC",
+      "title": ".gitignore",
+      "uuid": "Sgf017HKNoyzHped",
+      "url": "gxb53ct0d6s9dtk4",
+      "prev_uuid": "86OD6MsyHcDfvhdd",
+      "sibling_uuid": "",
+      "child_uuid": "",
+      "parent_uuid": "0z75CNxHvouDAvVi",
+      "doc_id": 229206108,
+      "level": 1,
+      "id": 229206108,
       "open_window": 1,
       "visible": 1
     },
