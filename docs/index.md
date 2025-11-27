@@ -9,20 +9,17 @@ hero:
   actions:
     - theme: brand
       text: 前端
-      link: /docs/FE/vue相关/vue打包配置动态参数
-    # - theme: alt
-    #   text: 其他
-    #   link: /api-examples
+      link: /docs/FE/vue相关/vue
+    - theme: brand
+      text: GIT
+      link: /docs/GIT/GIT常见命令
+    - theme: brand
+      text: 有点意思
+      link: /docs/有点意思/农历的秘密
 
 features:
-  - icon: 📝
-    title: 语雀书写文档
-    details: 更好的在线写作体验，及时备份 markdown 文档到本地
-  # - icon: 🚀
-  #   title: 持续集成
-  #   details: 结合语雀 Webhooks + Github Actions + Vercel，写完及时同步到文档站点
-  # - icon: 📦
-  #   title: 开箱即用
-  #   details: 简单配置仓库即可部署属于你的文档站点
+  - icon: 🧑‍🚀
+    title: 自律使你自由，keep moving
+    details: 学无止境，但也要劳逸结合。及时行乐，但也要保持平衡。
 ---
 
